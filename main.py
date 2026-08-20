@@ -4,3 +4,4 @@ pdfs = find_pdfs()
 
 for pdf in pdfs:
     print(pdf)
+    print("PDF Analysis")
